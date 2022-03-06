@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Christian Carlo T. Llobrera
+- 👋 Hi, I’m Christian Carlo A. Madrigal
 - 👀 I’m interested in making games.
 - 🌱 I’m currently learning anything that is related to Game Dev.
 - 💞️ I’m looking to collaborate with people who has interesting ideas.
